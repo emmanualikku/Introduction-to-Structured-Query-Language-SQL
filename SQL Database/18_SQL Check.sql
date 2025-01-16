@@ -1,0 +1,2 @@
+-- SQL Check
+ALTER TABLE Customers ADD CONSTRAINT CHK_Age CHECK (Age >= 18);
