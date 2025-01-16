@@ -1,0 +1,2 @@
+-- SQL Right Join
+SELECT Orders.OrderID, Customers.CustomerName FROM Orders RIGHT JOIN Customers ON Orders.CustomerID=Customers.CustomerID;

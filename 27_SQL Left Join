@@ -1,0 +1,2 @@
+-- SQL Left Join
+SELECT Orders.OrderID, Customers.CustomerName FROM Orders LEFT JOIN Customers ON Orders.CustomerID=Customers.CustomerID;

@@ -1,0 +1,2 @@
+-- SQL Select Distinct
+SELECT DISTINCT City FROM Customers;

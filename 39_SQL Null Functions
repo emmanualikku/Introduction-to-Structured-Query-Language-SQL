@@ -1,0 +1,2 @@
+-- SQL Null Functions
+SELECT ProductName, COALESCE(Price, 0) FROM Products;

@@ -1,0 +1,2 @@
+-- SQL Exists
+SELECT * FROM Customers WHERE EXISTS (SELECT * FROM Orders WHERE Customers.CustomerID=Orders.CustomerID);

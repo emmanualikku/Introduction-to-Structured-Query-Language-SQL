@@ -1,0 +1,2 @@
+-- SQL Like
+SELECT * FROM Customers WHERE CustomerName LIKE 'a%';

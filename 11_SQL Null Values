@@ -1,0 +1,2 @@
+-- SQL Null Values
+SELECT * FROM Customers WHERE Address IS NULL;

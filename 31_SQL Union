@@ -1,0 +1,2 @@
+-- SQL Union
+SELECT City FROM Customers UNION SELECT City FROM Suppliers;

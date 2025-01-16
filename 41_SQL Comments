@@ -1,0 +1,5 @@
+-- SQL Comments
+-- This is a single-line comment
+SELECT * FROM Customers;
+/* This is a multi-line comment */
+SELECT * FROM Products;

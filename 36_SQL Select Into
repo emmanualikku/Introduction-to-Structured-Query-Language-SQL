@@ -1,0 +1,2 @@
+-- SQL Select Into
+SELECT * INTO CustomersBackup FROM Customers;

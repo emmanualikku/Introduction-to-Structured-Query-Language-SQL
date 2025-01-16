@@ -1,0 +1,2 @@
+-- SQL Insert Into Select
+INSERT INTO Customers (CustomerName, Country) SELECT SupplierName, Country FROM Suppliers;
